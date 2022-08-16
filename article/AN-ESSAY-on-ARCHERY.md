@@ -6,7 +6,8 @@ signature: "describing The Practice of that Art in all Ages and Nations
 Walter Michael Moseley Esq.
 Pub. 1792 "
 
-culture: Islamic
+culture: 
+  - Islamic
 author:
 type: article 
 ---

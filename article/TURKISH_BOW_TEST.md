@@ -5,6 +5,7 @@ draft: false
 signature: 
 
 culture: 
+  - islamic
 author:
 type: article 
 ---
@@ -34,7 +35,7 @@ Dacron strings were used for all bows to simulate silk
 
 **105.5lb @ 27 ½", flight bow, 42" long:**
 
-| arrow grains: | arrow fps: | efficiency %: | 
+| arrow grains: | arrow fps: | efficiency %: |
 | ---: | ---: | ---: |
 | 1548  | 157.0 | 83.1  |
 | 1067  | 185.2 | 79.7  |
@@ -59,7 +60,7 @@ A 200 grain flight arrow will fly in vacuum 1350 yards. In air, this distance wi
 
 **136lb @ 29 7/8", war/target bow, 47.5" long:**
 
-| arrow grains: | arrow fps: | efficiency %: | 
+| arrow grains: | arrow fps: | efficiency %: |
 | ---: | ---: | ---: |
   1548  | 180.4 | 81.5
   1067  | 210.3 | 76.4
@@ -68,7 +69,7 @@ A 200 grain flight arrow will fly in vacuum 1350 yards. In air, this distance wi
 
 **72.1lb @ 28", war bow, 49" long:**
 
-| arrow grains: | arrow fps: | efficiency %: | 
+| arrow grains: | arrow fps: | efficiency %: |
 | ---: | ---: | ---: |
 | 1548 | 131.2  | 90.7 |
 | 1067 | 156.2  | 88.6 |
