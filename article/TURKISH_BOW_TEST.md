@@ -4,8 +4,9 @@ date: 2022-08-15T02:14:53+02:00
 draft: false
 signature: 
 
-culture: 
+cultures: 
   - islamic
+  
 author:
 type: article 
 ---

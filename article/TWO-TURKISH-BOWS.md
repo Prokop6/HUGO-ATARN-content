@@ -5,8 +5,9 @@ draft: false
 signature: "by Adam Karpowicz
 Text and photographs © Adam Karpowicz, 2001"
 
-culture: 
+cultures: 
   - Islamic 
+  
 author:
 type: article 
 ---

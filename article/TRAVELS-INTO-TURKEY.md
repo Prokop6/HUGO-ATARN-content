@@ -9,8 +9,9 @@ signature: "Containing the Most Accurate Account of the TURKS and Neighbouring N
 A. C. Busbequius (1522 - 1592)
 Pub. London 1744"
 
-culture: 
+cultures: 
   - Islamic
+
 author:
 
 ---
