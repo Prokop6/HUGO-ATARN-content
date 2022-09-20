@@ -85,31 +85,12 @@ Several times each year, special competitions are held to decide members' offici
 
 ### EPILOGUE
 
-When I first joined the archery association here in Korea, I
-became, as far as I know, the only non- Korean member. With this
-distinction also comes responsibility. 
+When I first joined the archery association here in Korea, I became, as far as I know, the only non- Korean member. With this distinction also comes responsibility.
 
-The hope of Korean members is that Korean traditional archery
-will be propagated to other countries, most notably the United
-States. When I joined, their stated hope was that I would
-introduce this style of archery to America. Very happily I am
-doing so. 
+The hope of Korean members is that Korean traditional archery will be propagated to other countries, most notably the United States. When I joined, their stated hope was that I would introduce this style of archery to America. Very happily I am doing so.
 
-As the details of this sport are too numerous to mention in
-this article, I am preparing a book and video on the subject. The
-book will cover everything I have stated here (in greater
-detail), and will have many areas not covered, including detailed
-discussions on the manufacture of the Korean horn bow and bamboo
-arrows. 
+As the details of this sport are too numerous to mention in this article, I am preparing a book and video on the subj ct. The book will cover everything I have stated here (in greater detail), and will have many areas not covered, including detailed discussions on the manufacture of the Korean horn bow and bamboo arrows.
 
-I would like to thank all the members of my jung, HO RIM JUNG
-(Tiger Forest Pavilion) for their enthusiasm and support. [You
-may share the information from this document, provided you
-attribute the source] 
+I would like to thank all the members of my jung, HO RIM JUNG (Tiger Forest Pavilion) for their enthusiasm and support. [You may share the information from this document, provided you attribute the source]
 
-*Ishi was known as the "Last Wild Indian In North
-America," when he stumbled into a northern California town
-in 1911. He taught white people arts and crafts (including
-archery) from his culture. His close friend and student was
-American archery pioneer, Dr. Saxton Pope. 
-
+*Ishi was known as the "Last Wild Indian In North America," when he stumbled into a northern California town in 1911. He taught white people arts and crafts (including archery) from his culture. His close friend and student was American archery pioneer, Dr. Saxton Pope.
