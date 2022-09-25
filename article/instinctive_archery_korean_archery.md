@@ -57,109 +57,114 @@ In recent years, Korea has excelled in Olympic-style archery. A great percentage
 
 {{<   figure  src="https://atarn.org/korean/ia2.gif"  alt="ia2.gif (91987 bytes)" title="Hwarang statue outside Kyongju Tollgate" >}}
 
-STARTING AT THE BEGINNING </b>
+### STARTING AT THE BEGINNING
 
-Probably the most logical way for me to introduce you to Korean
-traditional archery would be as though you, the reader, just joined a club. I will show
-what would happen from first signing up to the end of your first competition. First, you
-should learn some terminology. I will romanize Korean terms and explain them briefly. I
-will not go into detail or list terms that are not important to this discussion.
-<b>
+Probably the most logical way for me to introduce you to Korean traditional archery would be as though you, the reader, just joined a club. I will show what would happen from first signing up to the end of your first competition. First, you should learn some terminology. I will romanize Korean terms and explain them briefly. I will not go into detail or list terms that are not important to this discussion.
 
-GENERAL TERMS</b>
+### GENERAL TERMS
 
-<small>ARCHERY:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-GOONG DO<br>
-ARCHERY CLUB: JUNG (SA JUNG)<br>
-TARGET:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-GWA NYUK<br>
-SHOOTING LINE: SA DAE<br>
-PERFECT END:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOLGI<br>
-PERSON MAKING<br>
-PERFECT END:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JUB JANG</small>
-<b>
+ARCHERY
+: GOONG DO
 
-BOW TERMS</b>
+ARCHERY CLUB
+: JUNG (SA JUNG)
 
-<small>BOWYER:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-GOONGSA<br>
-HORN BOW:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-GAHK GOONG<br>
-(HWAL)<br>
-BOW COVER: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-GOONG DAE<br>
-BOW STRING:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GOONG
-HYUN<br>
-UNBRACED BOW: BU RIN HWAL<br>
-BRACED BOW:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UNJEUN HWAL<br>
-BOW HANDLE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JOOM TONG<br>
-SIYAH:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SAHM SAHM</small>
-<b>
+TARGET
+: GWA NYUK
 
-ARROW TERMS</b>
+SHOOTING LINE
+: SA DAE
 
-<small>FLETCHER:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SHI JANG<br>
-BAMBOO ARROW: JOOK SHI (HWA SAL)<br>
-POINT:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-CHOK<br>
-FLETCHING:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-GEET<br>
-SHAFT:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SHI NU DAE<br>
-NOCK:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-OH NEUI</small>
-<b>
+PERFECT END
+: MOLGI
 
-ACCESSORIES</b>
+PERSON MAKING PERFECT END
+: JUB JANG
 
-<small>THUMB RING: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-GAHKJI<br>
-ARROW CASE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JUN TONG<br>
-BRACE RING:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SAM JI
-GGEUN<br>
-SAJUNG FLAG:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SA JUNG GI<br>
-ARROW RETURN:&nbsp;&nbsp;&nbsp; SAL NAL<br>
-TARGET JUDGE<br>
-FLAG:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-HOIK JUNG</small>
+### BOW TERMS
+
+BOWYER
+: GOONGSA
+
+HORN BOW
+: GAHK GOONG (HWAL)
+
+BOW COVER
+: GOONG DAE
+
+BOW STRING
+: GOONG HYUN
+
+UNBRACED BOW
+: BU RIN HWAL
+
+BRACED BOW
+: UNJEUN HWAL
+
+BOW HANDLE
+: JOOM TONG
+
+SIYAH
+: SAHM SAHM
+
+### ARROW TERMS
+
+FLETCHER
+: SHI JANG
+
+BAMBOO ARROW
+: JOOK SHI (HWA SAL)
+
+POINT
+: CHOK
+
+FLETCHING
+: GEET
+
+SHAFT
+: SHI NU DAE
+
+NOCK
+: OH NEUI
+
+### ACCESSORIES
+
+THUMB RING
+: GAHKJI
+
+ARROW CASE
+: JUN TONG
+
+BRACE RING
+: SAM JI GGEUN
+
+SAJUNG FLAG
+: SA JUNG GI
+
+ARROW RETURN
+: SAL NAL
+
+TARGET JUDGE FLAG
+: HOIK JUNG
 
 There are so many more terms, but these are the most basic.
 
 Now that you have joined the club and learned some basic terms, it is
 time for you to start your training. I will add new words and old Korean sayings in
-italics. As a beginning archer, a *shin sa, *you will not start shooting yet. First,
+italics. As a beginning archer, a *shin sa*, you will not start shooting yet. First,
 you must learn how to hold the bow. We will use a modern bow for training. Grip the bow
-firmly but not tightly. *Grasp the bow as you would grasp an egg. *The middle, ring,
+firmly but not tightly*. Grasp the bow as you would grasp an egg*. The middle, ring,
 and little finger are held together around the bow grip. The index finger is held a little
 higher and is crooked downward. The thumb is held near the top of the grip and is crooked
-in a little. There should be no gap between the thumb and index finger.<img src="ia3.gif" width="666" height="227" alt="ia3.gif (141085 bytes)"><br>
-<em>Ready to draw...
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At
-full draw...
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ready
-to release...
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The arrow
-is on its way</em>
+in a little. There should be no gap between the thumb and index finger.
+{{< figure src="https://www.atarn.org/korean/ia3.gif"  alt="ia3.gif (141085 bytes)" title="Ready to draw...  At full draw... Ready to release... The arrow is on its way" >}}
 
 Next you should learn how to draw the bowstring properly. For beginning
 training, you will draw with a three finger style, as it is easier than the Mongolian
 style. Pull straight back and hold for five seconds. After that, slowly let up on the
 string. Check the bow nocks to be sure the string is still centered. If not, keep trying.
 This practice should continue for a couple of days, preferably under the auspices of a
-trained archer. *The hand with which you hold the bow should be like pushing a high
+trained archer*. The hand with which you hold the bow should be like pushing a high
 mountain; the string hand should be like pulling a tiger's tail.*
 
 The bow should be pushed using the ball of the palm of the hand, with
@@ -176,16 +181,17 @@ The tether pole is usually made from a tall (20 ft.) bamboo shaft. A
 long line is attached to it and an old arrow is attached to the line through a hole
 drilled in the point. Before shooting, you need the correct stance and the correct way to
 hold the string. Your feet should be positioned at a two o'clock position (ten o'clock if
-left handed). *The standing position, when shooting, should neither be a T shape, nor a
-V shape. The *weight of your entire body should be evenly divided between the forward
+left handed)*. The standing position, when shooting, should neither be a T shape, nor a
+V shape.*The weight of your entire body should be evenly divided between the forward
 and backward feet. Your abdomen should be tight. If your abdomen isn't strained to
 its fullest, it'll cause a loss of balance due to your haunches being pushed backward.
 Your abdomen can be naturally strained by standing with power in your legs.
 
-<img src="ia4.gif" alt="ia4.gif (195102 bytes)" WIDTH="666" HEIGHT="368"><br>
-<em><small>The targets as seen from the Sa Dae (shooting line). </small><br>
-<small>There are Chinese characters carved on the rock admonishing &quot;Don't talk while
-shooting.'</small></em>
+{{< figure 
+src="https://www.atarn.org/korean/ia4.gif" 
+alt="ia4.gif (195102 bytes)" 
+title="The targets as seen from the Sa Dae (shooting line). There are Chinese characters carved on the rock admonishing \"Don't talk while shooting.\""
+>}}
 
 Correct breathing is essential. Take a deep breath, then release it
 slowly, emptying your lungs. Your chin should be positioned by your left shoulder (if you
@@ -216,20 +222,16 @@ Now that you've practised shooting the tethered arrow, it is time
 for you to shoot a live arrow at the target, positioned 145 meters (158 yards) away.
 Remember a few basic rules:
 
-<blockquote>
-  <blockquote>
-    1. Check the wind.<br>
-    2. Stand straight.<br>
-    3. Breathe from your lower abdomen.<br>
-    4. Draw slowly.<br>
-    5. Hold at anchor for three seconds.<br>
-    6.&nbsp;&nbsp;&nbsp;&nbsp; Release smoothly.
-  </blockquote>
-</blockquote>
+1. Check the wind.
+2. Stand straight.
+3. Breathe from your lower abdomen.
+4. Draw slowly.
+5. Hold at anchor for three seconds.
+6. Release smoothly.
 
 When you first arrive at your jung, you will stand in front of a sign
-with the Chinese characters &quot;Jung Gahn&quot; carved into it. The meaning of the
-characters is literally &quot;Righteous Space.&quot; The meaning is varied, depending on
+with the Chinese characters "Jung Gahn" carved into it. The meaning of the
+characters is literally "Righteous Space." The meaning is varied, depending on
 location. Generally, it is understood to mean you should be upright in both mind and body.
 Next, you will give a slight bow. As for clothing, Korean archers dress nicely. It is a
 widely-held belief in Korea that the clothes make the person. In competitions, archers are
@@ -246,77 +248,77 @@ in the bow cover. Take five arrows and slide them under your bow cover on the th
 side, points in, feathers out. Twist them in the cover once, so they are firmly in place.
 The arrows should routinely be tested for straightness and soundness. The former is done
 first simply by sighting down the shaft; another way is to balance the shaft on your thumb
-nail and middle finger nail pressed together &#151; spin the point as though you were
+nail and middle finger nail pressed together — spin the point as though you were
 snapping your fingers. If it spins easily, it is probably straight and balanced. Soundness
 can be tested either by bouncing the arrow on its point or by dropping it flat on the
 ground, listening for a crisp, sharp sound. If the sound is flat, don't use it.
 
-Before releasing the first arrow of the day, a Korean archer will say *&quot;Hwal
-bae oom ni da,&quot; *which means &quot;I'm learning the bow.&quot;* *If other
-archers are present, they would reply *&quot;Mani ma chu sayo,&quot; *which means
-&quot;Have many hits.&quot;* *Whether others are present or not you should still say
+Before releasing the first arrow of the day, a Korean archer will say *"Hwal
+bae oom ni da,"* which means "*I'm learning the bow."* If other
+archers are present, they would reply *"Mani ma chu sayo,"* which means *"Have many hits."* Whether others are present or not you should still say
 this phrase, which is a reminder that, no matter how good an archer you are, you are
 always a student.
 
 After you've practised for a time, you will eventually reach certain
 milestones in Korean archery. The first one is the first hit. When an archer hits the
-target for the first<b> </b>time, it is a special occasion (A hit is defined as an arrow
+target for the first time, it is a special occasion (A hit is defined as an arrow
 hitting the target without breaking the plane of the target). First, you should bow
 towards the target (a practice that all novice archers must follow after making the first
 hit of the day). The next time you visit the jung, you should bring refreshments for the
 other members. For the second, third and fourth hits, congratulations are in order,
 nothing else. However, when you have a perfect score of five arrows hitting the target in
-a row, you have reached a very special level. This event is known as a *molgi. *The
+a row, you have reached a very special level. This event is known as a *molgi*. The
 date and time should be noted. There should be witnesses. You should bow to the target
 whenever you make a *molgi.*
 
-You will now be given a nickname, known as a *muho. *Usually, this
-name is given by the director of the *jung. *The name will usually describe something
-out of nature, When I reached this level, my director gave me the *muho of Chung *Ho,
-which means &quot;Blue Lake.&quot; This was thought to be appropriate, as my hometown is
+You will now be given a nickname, known as a *muho*. Usually, this
+name is given by the director of the *jung*. The name will usually describe something
+out of nature, When I reached this level, my director gave me the *muho of Chung Ho*,
+which means "Blue Lake." This was thought to be appropriate, as my hometown is
 in Michigan, the Great Lake State. Other members will call you by this name from now on.
 You will also be given an elaborate ceremony by the other members. During the ceremony,
 many rituals are performed and you will receive a certificate and trophy commemorating
 your achievement.
-<b>
 
-OFFICIAL RANKING</b>
+### OFFICIAL RANKING
 
 Korean traditional archery has ranking similar to other martial arts,
-such as taekwondo. The *dahn *level system is used. At special ranking competitions,
-archers try to advance in rank. The first *dahn *level is reached when you hit the
+such as taekwondo. The *dahn* level system is used. At special ranking competitions,
+archers try to advance in rank. The first *dahn* level is reached when you hit the
 target twenty five out of forty five tries. The next levels (second through ninth) are 28,
 29, 30, 31, 33, 35, 37, and 39 hits, respectively. Only two level advancements are allowed
-per year. Rank is signified by *moogoonghwa *(Rose of Sharon) flowers embroidered on
+per year. Rank is signified by *moogoonghwa* (Rose of Sharon) flowers embroidered on
 the archer's bow cover. When an archer reaches fifth dahn, another milestone is reached.
-This level is known as *Myong Goong, *or &quot;Famous-name Archer&quot;. At this
+This level is known as *Myong Goong*, or "Famous-name Archer". At this
 level, the archer will be given another ceremony and the archer's name will be registered
 nationally.
 
-<img src="ia5.gif" alt="ia5.gif (289827 bytes)" WIDTH="704" HEIGHT="404"><br>
-<em>The shooting pavillion</em>
-<b>
+{{< figure
+src="https://www.atarn.org/korean/https://atarn.org/korean/ia5.gif"
+alt="ia5.gif (289827 bytes)"
+title="The shooting pavillion"
+>}}
 
-THE GAME</b>
+### THE GAME
 
 The archery competition is divided into team and individual events. At
-some competitions, only *dahn *holders are allowed; at others, the competition is
+some competitions, only *dahn* holders are allowed; at others, the competition is
 open to all. The competitions are further divided between city, province, and *jung*
 matches. In the city match, seven members will represent a city; teams from other cities
 will send their representatives. In the provincial match, the top five archers from the
 province will compete against the other provinces. In the *jung* matches, the top
-five from the *jung *will compete. We will concentrate on the *jung *match. Only
-in the *jung *match are modern glass fiber bows and carbon arrows allowed; in city
+five from the *jung* will compete. We will concentrate on the *jung* match. Only
+in the *jung* match are modern glass fiber bows and carbon arrows allowed; in city
 and provincial meets, only the horn bow and bamboo arrows can be used.
 
 We should, at this point, talk about the opening ceremony. Usually,
-several *ends (soon) *will be shot beforehand. At the ceremony, a moment of bowed
+several *ends (soon)* will be shot beforehand. At the ceremony, a moment of bowed
 silence is given to the national flag.
 
 Next, the precepts of Korean traditional archery are read aloud by an
 emcee, a pledge is made by a chosen representative, and short speeches are given by VIPS.
 The whole thing takes fifteen to twenty minutes (members will be standing in front of the *sa
-dae *in rank and file.) Now, we can begin the competition in earnest.
+dae* in rank and file.) Now, we can begin the competition in earnest.
 
 First, there is the individual event. All members of all participating *jungs*
 can compete. The individual event is divided between the Men's Division and Women's
@@ -325,7 +327,7 @@ competition, archers will be arranged in shooting groups called *dae*. Each *dae
 will shoot three *soon* (ends) of five arrows, for a total of fifteen arrows. The
 archer with the best score out of fifteen wins. In the case of a tie, there will be a
 playoff. In team competition, the top five archers from each jung will shoot one *soon*
-of five arrows This is the quarter-final event, usually involving eight *jungs. *The
+of five arrows This is the quarter-final event, usually involving eight *jungs*. The
 semi-final event will be between the top four and the finals between the two winners of
 the semi-finals (Is there any other way?) 
 
@@ -340,88 +342,74 @@ attitude comes from ancient Confucian teachings. You will find that many attitud
 are held in Western countries don't hold up in Asia. The opposite is also true. Let's look
 at some customs in Korea.
 
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <ul>
-        <li>Never beckon someone with your index finger; use your hand, palm down, similar to a
-          wave. </li>
-        <li>Don't drink directly from a bottle; use a glass. </li>
-        <li>Don't lick your fingers while eating. </li>
-        <li>Never give or receive anything with one hand; use two hands.</li>
-        <li>Stand when elders or superiors enter a room.</li>
-        <li>Pour drinks for others and let others pour for you (two hands).</li>
-        <li>When entertaining out, try to pick up the tab, if possible (usually, everyone will try
-          to be the one to pay for the bill)</li>
-      </ul>
-    </blockquote>
-  </blockquote>
-</blockquote>
-<b>
+- Never beckon someone with your index finger; use your hand, palm down, similar to a wave.
+- Don't drink directly from a bottle; use a glass.
+- Don't lick your fingers while eating.
+- Never give or receive anything with one hand; use two hands.
+- Stand when elders or superiors enter a room.
+- Pour drinks for others and let others pour for you (two hands).
+- When entertaining out, try to pick up the tab, if possible (usually, everyone will try to be the one to pay for the bill)
 
-PRECEPTS</b>
+### PRECEPTS
 
 The above-mentioned customs are just a few of the many. They are representative of
 those you will find in Korean archery. Korean traditional archery was founded upon
-traditional values, much like that of* *the Hwarang of the Silla Dynasty. There are
-nine major precepts in Korean values. 
+traditional values, much like that of the Hwarang of the Silla Dynasty. There are
+nine major precepts in Korean values.
 
-<ol>
-  <li>*<b>In Ae Duk Haeng</b>*<br>
-    Be seen as a model of love and virtue</li>
-  <li>*<b>Sung Shil Gyum Sohn</b>*<br>
-    Act with humbleness and honesty.</li>
-  <li>*<b>Ja Joong Jul Jo</b>*<br>
-    You should solidly protect your integrity through discreet behavior.</li>
-  <li>*<b>Ye Eui Um Soo</b>*<br>
-    Be courteous.</li>
-  <li><strong><em>Yum Jik Gwa Gahm</em></strong><br>
-    When in a position of power, act with integrity and bravery.</li>
-  <li>*<b>Sub Sa Moo Un</b>*<br>
-    Don't speak while there is shooting.</li>
-  <li>*<b>Jung Shim Jung Gi</b>*<br>
-    Have a straight mind and straight body.</li>
-  <li><em><strong>Bool Won Seung Ja<br>
-    </strong></em>Don't resent someone who wins.</li>
-  <li>*<b>Mahk Mahn Tah Goong</b>*<br>
-    Don't touch another person's bow.</li>
-</ol>
-<b>
+***In Ae Duk Haeng***
+: Be seen as a model of love and virtue
 
-</b><strong>&nbsp;INTERVIEW WITH A MYONG GOONG</strong>
+***Sung Shil Gyum Sohn***
+: Act with humbleness and honesty.
+
+***Ja Joong Jul Jo***
+: You should solidly protect your integrity through discreet behavior.
+
+***Ye Eui Um Soo***
+: Be courteous.
+
+***Yum Jik Gwa Gahm***
+: When in a position of power, act with integrity and bravery.
+
+***Sub Sa Moo Un***
+: Don't speak while there is shooting.
+
+***Jung Shim Jung Gi***
+: Have a straight mind and straight body.
+
+***Bool Won Seung Ja***
+: Don't resent someone who wins.
+
+***Mahk Mahn Tah Goong***
+: Don't touch another person's bow.
+
+### INTERVIEW WITH A MYONG GOONG
 
 Now that we've looked a little at what Korean archery is like, let's
 have a talk with a true Korean archery master. His name is Mr. Bak Dong Sub (His *muho
-is* *Duk Sahn). *He passed *Myong Goong* level a couple of years ago. I'm
+is* *Duk Sahn)*. He passed *Myong Goong* level a couple of years ago. I'm
 very lucky to have him both as a friend and as my mentor. 
-<b>
 
-What type of equipment do you prefer to use in Korean traditional
-archery?</b><br>
-*I will only use the traditional gahk goong* *(horn bow) and jook shi (bamboo* *arrows).
-*
+**What type of equipment do you prefer to use in Korean traditional archery?**
 
-Is <b>there any particular reason you like this type of equipment?</b><br>
+*I will only use the traditional gahk goong (horn bow) and jook shi (bamboo arrows).*
+
+**Is there any particular reason you like this type of equipment?**
+
 *Yes. Nothing can beat the performance or feel of the gahk goong and jook shi. When you
 shoot this type of bow, you don't get hand shock and the feeling upon release is
 fantastic. Another reason is I* *love traditionalism. Anything else just wouldn't be
-the same.
-*<b>
+the same.*
 
-When did you first try Korean traditional archery that mirror those
-traditional archery? </b><br>
-*I first started in 1987, after a friend of* *mine introduced it to me. Shortly*
-*thereafter, I was hooked. I've been*. *practicing this art ever since.
-*<b>
+**When did you first try Korean traditional archery that mirror those traditional archery?**
 
-Do you have any special methods of training?</b><br>
-*Practice, practice, practice. Nothing can replace practice. However, you have to
-practice correct form, not mistakes. To do this, whenever I'm at a national competition, I
-spend any free time I have studying the forms of other Myong Goong. I have learned many
-new techniques that way.*
-<b>
+*I first started in 1987, after a friend of mine introduced it to me. Shortly thereafter, I was hooked. I've been practicing this art ever since.*
 
-What do you like most about Korean traditional archery?</b><br>
-*The tradition involved. *<b>Tradition </b>*is <b>everything.</b>*
-</body>
-</html>
+**Do you have any special methods of training?**
+
+*Practice, practice, practice. Nothing can replace practice. However, you have to practice correct form, not mistakes. To do this, whenever I'm at a national competition, I spend any free time I have studying the forms of other Myong Goong. I have learned many new techniques that way.*
+
+**What do you like most about Korean traditional archery?**
+
+*The tradition involved. **Tradition** is **everything**.*
